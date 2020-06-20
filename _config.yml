@@ -10,8 +10,8 @@ language: 'en-uk'
 name: 'Broken Cat Games'
 description: "We make games"
 
-short_url: 'brokencatgames.io/'
-google_analytics: UA-69281367-1
+short_url: 'brokencatgames.github.io/'
+google_analytics: UA-000000-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: BrokenCatGames
-repo: brokencatgames.io
+repo: brokencatgames.github.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
