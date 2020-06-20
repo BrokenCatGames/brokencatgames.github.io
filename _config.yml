@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: BrokenCatGames
-repo: BrokenCatGames
+repo: brokencatgames.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
