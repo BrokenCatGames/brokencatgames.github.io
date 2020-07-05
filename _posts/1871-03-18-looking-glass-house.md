@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/cover2.jpg'
 navigation: True
 title: Looking-Glass house
-date: 1871-03-18 10:18:00
+date: 2020-07-05 10:18:00
 tags: fiction
 subclass: 'post tag-fiction'
 logo: 'assets/images/ghost.png'
